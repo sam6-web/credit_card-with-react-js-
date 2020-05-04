@@ -1,0 +1,68 @@
+.page_card{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 10%;
+    ;
+}
+h1{
+
+    color: crimson;
+    border: solid 2px black;
+}
+
+.input_card{
+    
+    background-color: rgb(42, 165, 159);
+    width: 12cm;
+    height: 10cm; 
+    border: solid 2px black;  
+}
+input{
+    height: 1cm;
+    width: 6cm;
+    border: solid 2px black;
+}
+
+h2{
+    border-bottom: solid 2px black;
+}
+.card{
+    width: 12cm;
+    background-color: #042848;
+    color: white;
+    border-radius: 2%;
+    padding: 8px;
+    height: 8cm;
+    box-shadow: 8px 8px 5px 2px black;
+    
+}
+.logo{
+    width: 80px;
+    height: 50px;
+    margin: 5%;
+    background-color: #baaf7d;
+    border-radius: 10px;
+}
+.numero{
+    color: #baaf7d;
+    background-color: rgba(186, 175, 125, 0.2)
+}
+.date{
+    text-align: center;
+}
+.nom{
+    text-align: left;
+    padding-top: 5px;
+}
+.image{
+    width: 2cm;
+    height: 2cm;
+    border-radius: 50%;
+    border: solid black;
+
+}
+.head{
+    display: flex;
+    justify-content: space-between;
+    padding: 5%;
+}
